@@ -16,4 +16,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 
-![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBernard&show_icons=true&theme=radical)
+![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBernard&show_icons=true&theme=tokyonight)
