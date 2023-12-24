@@ -1,4 +1,4 @@
-### Hi, I'm John Bernard S. Peraz!👋
+### Hi, I'm John Bernard !👋
 
 - 🔭 Currently, I am pursuing a bachelor's degree in computer science.<br/>
 - 🌱 I'm currently learning languages that relate to software engineering.<br/>
